@@ -1,0 +1,1 @@
+void extract_rotation_pseudo_edge(float q[4], float p1x, float p1y, float p1z, float p2x, float p2y, float p2z);
